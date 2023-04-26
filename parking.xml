@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<spot_info>
+    <spot id = "1">
+    <type>Open</type>
+    <cost>$10</cost>
+<vehicle_info>
+    <mark = "Mercedes">
+    <model>A-class</model>
+    <certificate>A13N65L86</certificate>
+    <year>2023</year>
+    <color>White</color>
+    <number>В986СТ</number>
+<rent_info>
+    <idn = "12">
+    <localnumber>A13N65L86</localnumber>
+    <start_date>26/04/2023</start_date>
+    <end_date>02/05/20223</end_date>
+    <number_seat>1</number_seat>
+    <cost>%10</cost>
+<person_info>
+    <fullname = "Пясецкий Сергей Александрович">
+    <passport>2604202324</passport>
+    <number>В986СТ</number>
